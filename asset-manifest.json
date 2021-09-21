@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Weather-React.git/static/css/main.c63b5eea.chunk.css",
+    "main.js": "/Weather-React.git/static/js/main.924f8340.chunk.js",
+    "main.js.map": "/Weather-React.git/static/js/main.924f8340.chunk.js.map",
+    "runtime-main.js": "/Weather-React.git/static/js/runtime-main.d4cab469.js",
+    "runtime-main.js.map": "/Weather-React.git/static/js/runtime-main.d4cab469.js.map",
+    "static/js/2.f07baf5c.chunk.js": "/Weather-React.git/static/js/2.f07baf5c.chunk.js",
+    "static/js/2.f07baf5c.chunk.js.map": "/Weather-React.git/static/js/2.f07baf5c.chunk.js.map",
+    "static/js/3.7f7829a8.chunk.js": "/Weather-React.git/static/js/3.7f7829a8.chunk.js",
+    "static/js/3.7f7829a8.chunk.js.map": "/Weather-React.git/static/js/3.7f7829a8.chunk.js.map",
+    "index.html": "/Weather-React.git/index.html",
+    "static/css/main.c63b5eea.chunk.css.map": "/Weather-React.git/static/css/main.c63b5eea.chunk.css.map",
+    "static/js/2.f07baf5c.chunk.js.LICENSE.txt": "/Weather-React.git/static/js/2.f07baf5c.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d4cab469.js",
+    "static/js/2.f07baf5c.chunk.js",
+    "static/css/main.c63b5eea.chunk.css",
+    "static/js/main.924f8340.chunk.js"
+  ]
+}
